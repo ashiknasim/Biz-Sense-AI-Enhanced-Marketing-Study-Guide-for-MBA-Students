@@ -48,13 +48,7 @@ The project is organized as follows:
 ├── chroma_db/            # Persistent vector database (auto-generated)
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
+```text
 
-
-## 🔧 Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/biz-sense.git
-   cd biz-sense
-
-
-
+## 📂 Directory Structure
+KGKNLFGNJLFGLJFG
