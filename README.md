@@ -50,11 +50,11 @@ The project is organized as follows:
 └── README.md             # Project documentation
 
 
-
 ## 🔧 Setup Instructions
-1. **Clone the repository:**
-```text
-   git clone https://github.com/your-username/biz-sense.git cd biz-sense
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/biz-sense.git
+   cd biz-sense
 
 
 
