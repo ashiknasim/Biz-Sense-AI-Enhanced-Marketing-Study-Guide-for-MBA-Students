@@ -39,12 +39,12 @@
 4. **User Interaction:**
    - Users can query specific topics or generate question papers directly from the UI.
 
-## 📂 Directory Structure
-'''├── app.py                # Streamlit application
-   ├── main.py               # Backend logic for model and database
-   ├── chroma_db/            # Persistent vector database (auto-generated)
-   ├── requirements.txt      # Python dependencies
-   └── README.md             # Project documentation'''
+## 📂 Directory Structure'''
+├── app.py                # Streamlit application
+├── main.py               # Backend logic for model and database
+├── chroma_db/            # Persistent vector database (auto-generated)
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
 
 
 ## 🔧 Setup Instructions
