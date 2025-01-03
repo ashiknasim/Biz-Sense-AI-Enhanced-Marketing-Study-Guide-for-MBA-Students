@@ -40,6 +40,16 @@
    - Users can query specific topics or generate question papers directly from the UI.
 
 ## 📂 Directory Structure
-├── app.py # Streamlit application ├── main.py # Backend logic for model and database ├── chroma_db/ # Persistent vector database (auto-generated) ├── requirements.txt # Python dependencies └── README.md # Project documentation
+├── app.py                # Streamlit application
+├── main.py               # Backend logic for model and database
+├── chroma_db/            # Persistent vector database (auto-generated)
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+
+## 🔧 Setup Instructions
+1. **Clone the repository:**
+   git clone https://github.com/your-username/biz-sense.git
+cd biz-sense
+
 
 
