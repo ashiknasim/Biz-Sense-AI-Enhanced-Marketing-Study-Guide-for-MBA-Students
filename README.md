@@ -39,7 +39,10 @@
 4. **User Interaction:**
    - Users can query specific topics or generate question papers directly from the UI.
 
-## 📂 Directory Structure'''
+## 📂 Directory Structure
+The project is organized as follows:
+
+```text
 ├── app.py                # Streamlit application
 ├── main.py               # Backend logic for model and database
 ├── chroma_db/            # Persistent vector database (auto-generated)
@@ -47,10 +50,11 @@
 └── README.md             # Project documentation
 
 
+
 ## 🔧 Setup Instructions
 1. **Clone the repository:**
-   git clone https://github.com/your-username/biz-sense.git
-cd biz-sense
+```text
+   git clone https://github.com/your-username/biz-sense.git cd biz-sense
 
 
 
